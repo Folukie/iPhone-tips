@@ -1,0 +1,11 @@
+.header {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+.collection {
+  width: 50%;
+  margin: 0 auto;
+}
+.content {
+  margin: 20px 0;
+}

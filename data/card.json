@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "src": "/images/iphone.png",
+        "name": "Welcome to iPhone",
+        "subhead": "Get to know iPhone",
+        "tips": 9,
+        "heading": "Reduce background noise",
+        "content": "On a call, open Control Centre, tap Mic Mode, then tap Voice Isolation to make sure your voice comes through loud and clear"
+    },
+    {
+        "id": 2,
+        "src": "/images/genius.png",
+        "name": "Genius Picks",
+        "subhead": "Favourites from our experts",
+        "tips": 7,
+        "heading": "Blur your FaceTime background",
+        "content": "Put the focus on you, not what's behind you. On a call, tap your tilr, then tap to turn on Portrait mode."
+    },
+    {
+        "id": 3,
+        "src": "/images/airpods.png",
+        "name": "AirPods",
+        "subhead": "Easy listening",
+        "tips": 9,
+        "heading": "Hear your notifications",
+        "content": "Siri reads your notifications as they arrive, To choose which notifications you hear, go to Settings > Notifications > Annonce Notifications"
+    }
+]
